@@ -1,11 +1,5 @@
 ![](assets/Bottom_up.svg)
 
-<!---
-Rowena520/Rowena520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![](assets/Bottom_up.svg)
-
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
